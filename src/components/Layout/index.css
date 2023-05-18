@@ -1,0 +1,10 @@
+.layout-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  min-height: 100vh;
+}
+.layout-content-container {
+  width: 80%;
+  min-height: 100vh;
+}
